@@ -1,4 +1,4 @@
-# VBA Challenge
+# Stock Data Analysis 
 This is a script that will loop through all the stocks for multiple years and output the following information for each year:
 
 The ticker symbol.
